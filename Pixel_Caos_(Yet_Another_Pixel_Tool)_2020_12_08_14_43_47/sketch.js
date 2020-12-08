@@ -1,4 +1,4 @@
-//missing original image
+//missing or corrupted original image
 
 let modeC1 = 1;
 let modeC2 = 1;
